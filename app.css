@@ -1,13 +1,14 @@
+ @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&display=swap'); 
 *{
     box-sizing: border-box;
 }
 :root{
-    --primary-color:#22254b;
-    --second-color:#373b69;
+    --primary-color:#4B56D2;
+    --second-color:#472183;
 }
 body{
     background-color: var(--primary-color);
-    font-family: 'Poppins',sans-serif;
+    font-family: 'Baloo Bhai 2', cursive;
     margin: 0;
 
 }
@@ -48,6 +49,7 @@ main{
 
 }
 .movie-info span.green{
+    
     color: lightgreen;
 }
 .movie-info span.yellow{

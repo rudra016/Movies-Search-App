@@ -1,2 +1,2 @@
 # Movies-Search-App
-![image](https://user-images.githubusercontent.com/94120092/209232184-5a0b3617-5a2c-4348-b146-8dd9697a63c1.png)
+![image](https://user-images.githubusercontent.com/94120092/209564659-8e631068-a6f0-4b61-955a-c5e981b47508.png)
